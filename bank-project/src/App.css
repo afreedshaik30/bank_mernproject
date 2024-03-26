@@ -1,5 +1,6 @@
 nav {
   background-color: black;
+  background-position: sticky;
   color: white;
   height: 70px;
   padding: 25px;
